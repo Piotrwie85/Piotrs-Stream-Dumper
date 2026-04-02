@@ -12,6 +12,7 @@ A clean, modern desktop tool for capturing live streams directly to MKV files us
 ## Screenshot
 
 > _Dark theme UI with status indicator, stream URL input, and one-click dump controls._
+> https://github.com/Piotrwie85/Piotrs-Stream-Dumper/blob/main/Screen.jpg?raw=true
 
 ---
 
